@@ -8,11 +8,11 @@ INTERNAL_PORT="443"
 SNI="www.microsoft.com"
 DEST="www.microsoft.com:443"
 
-UUID="64400d0f-2870-4f3d-bc14-378e9ecf7b58"
+UUID="460de5f2-e29a-429e-9f34-364031be61f4"
 PRIVATE_KEY="OBtbynsjUMvS42CWqySHQYh9vGDD-X2CR5yOzNKzj2Q"
 PUBLIC_KEY="qxZkLiBxh3NalNffRLTr3WSoqbJ4TKw-2r4OgucHJhg"
 SHORT_ID="c9eb70ff6bb64fbf"
-XHTTP_PATH="/de9dec5a62ba"
+XHTTP_PATH="/bF9xM7vN5zW2"
 
 XRAY_BIN="/usr/local/bin/xray"
 XRAY_DIR="/etc/xray"
